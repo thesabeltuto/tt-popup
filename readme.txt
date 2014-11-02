@@ -22,7 +22,7 @@ This plugin is a simplified popup plugin for all. Just add class "popup" in the 
 == Frequently asked questions ==
 
 1. How to make this plugin work?
-* Please refer to Dashboard -> TT-Options > Support for answers.
+* Please refer to Dashboard -> TT-Popup > Support for answers.
 
 == Screenshots ==
 
