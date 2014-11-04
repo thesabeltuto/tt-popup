@@ -1,9 +1,9 @@
 <?php
 /*
 	Plugin Name: TT-Popup
-	Plugin URI: http://ttplugins.wordpress.com/
+	Plugin URI: https://wordpress.org/plugins/tt-popup/
 	Description: This plugin is a simplified popup plugin for all. Just add class "popup" in the &lt;a&gt; tag and anything inside it will be popped up! You can popup from images to forms to html pages! Dashboard is available for more info and advance set up of popups. Created by Thesabel Tuto. Based on FancyBox plugin.
-	Version: 2.0
+	Version: 2.0.1
 	Author: Thesabel Tuto
 	Author URI: http://thesabeltuto.blogspot.com
 	Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=H228JQZP6269J&lc=PH&item_name=TT%2dPlugins&item_number=tt%2dplugins¤cy_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted

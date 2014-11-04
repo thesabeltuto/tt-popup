@@ -29,7 +29,7 @@ function TT_POPUP_PLUGIN_theme_options_page() {
 			<h3>Basic Settings</h3>
             <div class="tt-popup-admin-section tt-popup-admin-support">
             	<p>Insert class `<strong>popup</strong>` to any hyperlink elements you wish to popup.</p>
-            	<p><strong>Example:</strong> <code>&lt;a href="<?=TT_POPUP_PLUGIN_URL;?>images/sample1.png" <strong>class="popup"</strong>&gt;Popup this up!&lt;/a&gt;</code></p>
+            	<p><strong>Example:</strong> <code>&lt;a href="<?=TT_POPUP_PLUGIN_URL;?>images/sample1.png" <strong>class="popup"</strong>&gt;Try this Example now!&lt;/a&gt;</code></p>
              	<p><blockquote><a href="<?=TT_POPUP_PLUGIN_URL;?>images/sample1.png" class="popup">Try this Example now!</a></blockquote></p>
            </div>
 
@@ -38,7 +38,7 @@ function TT_POPUP_PLUGIN_theme_options_page() {
             	<p>Insert class `<strong>popup</strong>` to any hyperlink elements you wish to popup. Make sure your hyperlink reference is a <strong>hashtag of an element id</strong> that you are going to popup.</p>
                 
              	<p><strong>Example:</strong>
-                <code>&lt; href="<strong>#tt-popup-sample-id</strong>" <strong>class="popup"</strong>&gt;Popup this up!&lt;/a&gt;<br /><br />&lt;div <strong>id="tt-popup-sample-id"</strong> style="display: none;"&gt;<br />Any HTML content you like to display.<br />&lt;/div&gt;</code></p>
+                <code>&lt; href="<strong>#tt-popup-sample-id</strong>" <strong>class="popup"</strong>&gt;Try this Example now!&lt;/a&gt;<br /><br />&lt;div <strong>id="tt-popup-sample-id"</strong> style="display: none;"&gt;<br />Any HTML content you like to display.<br />&lt;/div&gt;</code></p>
                 
              	<p><blockquote><a href="#tt-popup-sample-id" class="popup">Try this Example now!</a>
                 <div id="tt-popup-sample-id" style="display: none;">
